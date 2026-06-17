@@ -1,4 +1,5 @@
-  #                                 🚀 Jatin Jangel Portfolio
+<p align="center">
+  # 🚀 Jatin Jangel Portfolio
 
 <p align="center">
 
