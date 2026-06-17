@@ -1,5 +1,6 @@
 <p align="center">
-  # 🚀 Jatin Jangel Portfolio
+   
+   # 🚀 Jatin Jangel Portfolio
 
 <p align="center">
 
@@ -141,26 +142,6 @@ Open browser:
 http://localhost:5173
 ```
 
----
-
-# 📸 Screenshots
-
-Add screenshots inside:
-
-```
-screenshots/
-
-├── home.png
-├── projects.png
-└── contact.png
-```
-
-
-Example:
-
-```md
-![Home](./screenshots/home.png)
-```
 
 ---
 
