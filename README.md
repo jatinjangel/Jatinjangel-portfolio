@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  DevOps Engineer | Cloud Enthusiast | Automation Lover 🚀
+  DevOps Engineer | Cloud Enthusiast | Automation 🚀
 </p>
 
 ---
