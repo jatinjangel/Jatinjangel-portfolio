@@ -14,46 +14,46 @@
 
 Hi, I'm **Jatin Jangel** 👋
 
-I'm a passionate **DevOps Engineer** focused on building scalable, secure and automated cloud infrastructure.
+I'm a passionate **DevOps Engineer / Cloud Enthusiast** focused on building scalable, secure, and automated cloud infrastructure.
 
-I specialize in:
+I work with:
 
-☁️ AWS Cloud  
-🐳 Docker  
-☸️ Kubernetes  
-⚙️ CI/CD Automation  
-🏗️ Terraform  
-🔐 DevSecOps  
-🐧 Linux Administration  
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔥 Jenkins CI/CD
+- 🏗️ Terraform
+- 🔐 DevSecOps Tools
+- 🐧 Linux
+- ⚙️ Automation
 
-I enjoy automating infrastructure, improving deployments, and building reliable systems.
+I love automating infrastructure, improving deployments, and creating reliable systems.
 
 ---
 
-# 🌐 Portfolio Website
+## 🌐 Live Portfolio
 
-🔗 Live Portfolio:
+🔗 Website:
 
 https://jatinjangeldevops.online
 
-
 ---
 
-# ✨ Features
+## ✨ Features
 
-✅ Responsive Portfolio Website  
-✅ Modern UI Design  
-✅ About Me Section  
-✅ Skills Showcase  
-✅ Projects Section  
-✅ Contact Section  
-✅ Mobile Friendly  
-✅ Clean Developer Interface  
+✅ Modern responsive UI  
+✅ Developer focused design  
+✅ About section  
+✅ Skills showcase  
+✅ Project showcase  
+✅ Contact section  
+✅ Mobile friendly  
+✅ Clean animations  
+✅ Cloud & DevOps focused portfolio  
 
 ---
 
 # 🛠️ Tech Stack
-
 
 ## Frontend
 
@@ -63,22 +63,162 @@ https://jatinjangeldevops.online
 - React.js
 
 
-## DevOps Tools
+## DevOps & Cloud
 
-- Git & GitHub
+- AWS
 - Docker
 - Kubernetes
 - Jenkins
 - Terraform
-- AWS
+- Git
+- GitHub
 - Linux
 
 
-## Deployment
+## Security Tools
 
-- AWS Cloud
-- CI/CD Pipeline
+- SonarQube
+- Trivy
 
 ---
 
 # 📂 Project Structure
+
+
+```
+Jatinjangel-portfolio
+│
+├── public
+│
+├── src
+│   ├── components
+│   ├── assets
+│   ├── pages
+│   └── styles
+│
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+---
+
+# 🚀 Run Locally
+
+
+## Clone Repository
+
+```bash
+git clone https://github.com/jatinjangel/Jatinjangel-portfolio.git
+```
+
+
+## Enter Project Folder
+
+```bash
+cd Jatinjangel-portfolio
+```
+
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+
+## Start Development Server
+
+```bash
+npm run dev
+```
+
+
+Open browser:
+
+```
+http://localhost:5173
+```
+
+---
+
+# 📸 Screenshots
+
+Add screenshots inside:
+
+```
+screenshots/
+
+├── home.png
+├── projects.png
+└── contact.png
+```
+
+
+Example:
+
+```md
+![Home](./screenshots/home.png)
+```
+
+---
+
+# 📊 Skills
+
+
+| Category | Tools |
+|---|---|
+| Cloud | AWS |
+| Container | Docker |
+| Orchestration | Kubernetes |
+| Infrastructure | Terraform |
+| CI/CD | Jenkins |
+| Operating System | Linux |
+| Version Control | Git/GitHub |
+| Security | SonarQube, Trivy |
+
+
+---
+
+# 🎯 Future Improvements
+
+🚧 Add DevOps Case Studies  
+🚧 Add Blog Section  
+🚧 Add Dark Mode  
+🚧 Add CI/CD Deployment  
+🚧 Add Kubernetes Architecture  
+🚧 Add AWS Cloud Diagrams  
+
+---
+
+# 📬 Connect With Me
+
+
+## LinkedIn
+
+https://linkedin.com/in/jatinjangel
+
+
+## GitHub
+
+https://github.com/jatinjangel
+
+
+## Portfolio
+
+https://jatinjangeldevops.online
+
+
+---
+
+# ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub.
+
+---
+
+<p align="center">
+
+<b>Made with ❤️ by Jatin Jangel</b>
+
+</p>
