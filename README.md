@@ -1,13 +1,13 @@
-<p align="center">
-   
-   # 🚀 Jatin Jangel Portfolio
+<h1 align="center">🚀 Jatin Jangel Portfolio</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge"/>
-
+<p align="center">
+  DevOps Engineer | Cloud Enthusiast | Automation Lover 🚀
 </p>
 
 ---
@@ -163,13 +163,11 @@ http://localhost:5173
 ---
 
 # 🎯 Future Improvements
-
-🚧 Add DevOps Case Studies  
-🚧 Add Blog Section  
-🚧 Add Dark Mode  
-🚧 Add CI/CD Deployment  
-🚧 Add Kubernetes Architecture  
-🚧 Add AWS Cloud Diagrams  
+ 
+🚧 Blog Section    
+🚧 CI/CD Deployment  
+🚧 Kubernetes Architecture  
+🚧 AWS Cloud Diagrams  
 
 ---
 
