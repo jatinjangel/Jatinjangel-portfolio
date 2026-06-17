@@ -1,37 +1,84 @@
 # 🚀 Jatin Jangel Portfolio
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-JatinJangel-black?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+<p align="center">
 
-Welcome to my personal portfolio website 🚀
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge"/>
 
-This project represents my skills, projects, experience, and journey as a **DevOps Engineer / Cloud Enthusiast**.  
-The website is designed to showcase my technical knowledge, professional projects, and achievements.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 Hi, I'm **Jatin Jangel** 👋
 
-I'm a passionate **DevOps Engineer** focused on building scalable, secure, and automated cloud infrastructure.
+I'm a passionate **DevOps Engineer** focused on building scalable, secure and automated cloud infrastructure.
 
-I work with:
+I specialize in:
 
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔥 Jenkins CI/CD
-- 🏗️ Terraform
-- 🔐 DevSecOps Tools
-- 🐧 Linux
-- ⚙️ Automation
+☁️ AWS Cloud  
+🐳 Docker  
+☸️ Kubernetes  
+⚙️ CI/CD Automation  
+🏗️ Terraform  
+🔐 DevSecOps  
+🐧 Linux Administration  
 
-I love automating things and turning complex infrastructure problems into simple solutions.
+I enjoy automating infrastructure, improving deployments, and building reliable systems.
 
 ---
 
-## 🌐 Live Website
+# 🌐 Portfolio Website
 
-🔗 Portfolio:
+🔗 Live Portfolio:
+
+https://jatinjangeldevops.online
+
+
+---
+
+# ✨ Features
+
+✅ Responsive Portfolio Website  
+✅ Modern UI Design  
+✅ About Me Section  
+✅ Skills Showcase  
+✅ Projects Section  
+✅ Contact Section  
+✅ Mobile Friendly  
+✅ Clean Developer Interface  
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+
+## DevOps Tools
+
+- Git & GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- AWS
+- Linux
+
+
+## Deployment
+
+- AWS Cloud
+- CI/CD Pipeline
+
+---
+
+# 📂 Project Structure
