@@ -59,8 +59,8 @@ https://jatinjangeldevops.online
 
 ## Frontend
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - React.js
 
